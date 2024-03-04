@@ -20,12 +20,12 @@ file_list=[
     f"src/{project_name}/constants/__init__.py",
     "config/config.yaml",
     "params.yaml",
-    "app.py"
+    "app.py",
     "main.py",
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
     "test.py"
 ]   
 
